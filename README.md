@@ -2,7 +2,7 @@
 
 ### About Me
 - 🌱 I’m currently learning Machine Learning and exploring Python.
-- 🚀 I have been building apps with **Next.js, React, Electron and SQLite**
+- 🚀 I have been building apps with Next.js, React, Electron and SQLite.
 - 📫 Feel free to reach out: [bruno.a.wep@gmail.com](mailto:bruno.a.wep@gmail)
 
 ### Github stats
