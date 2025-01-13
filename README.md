@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 👋
+# Welcome to My GitHub Profile!
 
 ### About Me
 - 🌱 I’m currently learning Machine Learning and exploring Python.
