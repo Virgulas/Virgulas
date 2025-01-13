@@ -6,9 +6,9 @@
 - 📫 Feel free to reach out: [bruno.a.wep@gmail.com](mailto:bruno.a.wep@gmail)
 
 ### Github stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Virgulas&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Virgulas&show_icons=true&bg_color=000000&text_color=e61005)
 #
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Virgulas&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Virgulas&layout=compact&bg_color=000000&text_color=e61005)
 
 ### Development Tools:
 
