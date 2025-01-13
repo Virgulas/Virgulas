@@ -5,11 +5,9 @@
 - 🚀 I have been building apps with **Next.js, React, Electron and SQLite**
 - 📫 Feel free to reach out: [bruno.a.wep@gmail.com](mailto:bruno.a.wep@gmail)
 
-### My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-
 ### Github stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Virgulas&show_icons=true&theme=radical)
+#
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Virgulas&layout=compact&theme=radical)
 
 ### Development Tools:
